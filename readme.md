@@ -7,10 +7,12 @@
 ## Настройка проекта
 Для Laravel:
 - `composer install`
+- `npm i`
 - настроить `.env` файл
 - `php artisan key:generate`
 - `php artisan migrate`
 - `php artisan db:seed`
+- `npm run dev`
 
 Для других фреймворков: 
 - использовать дамп БД `dump.sql`
